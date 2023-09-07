@@ -10,10 +10,16 @@ React Mini Blog
 
 * styled-components
 
+* serve
+
 명령어
 -
 
 ```npm install --save react-router-dom styled-components```
+
+* * *
+
+```npm install -g serve```
 
 * * *
 
@@ -48,3 +54,19 @@ React Mini Blog
 
 > > > ui
 > > > > UI Component들을 모아놓은 폴더
+
+
+
+빌드
+=
+
+명령어
+-
+
+```npm run build```
+
+* * *
+
+```serve -s build```
+
+* * *
